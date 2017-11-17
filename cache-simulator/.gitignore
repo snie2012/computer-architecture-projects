@@ -1,0 +1,9 @@
+*.o
+*.txt
+*.zip
+/validation
+/trace_file
+/other
+/debug
+/sublime-project
+

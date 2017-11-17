@@ -1,0 +1,9 @@
+trace/
+validation/
+output/
+diff/
+*.txt
+sim_ds
+report/
+.ipynb_checkpoints/
+*.ipynb
